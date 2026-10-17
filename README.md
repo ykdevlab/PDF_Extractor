@@ -7,7 +7,7 @@ Install locally:
 3. Enable Developer mode.
 4. Choose Load unpacked and select this folder.
 
-Version 1.6.0 adds website-matching Open PDF and Download actions to assignment cards when a direct PDF URL is exposed or detected after opening the assignment. Existing popup, local PDF history, and support link are preserved.
+Version 1.5.0 adds website-matching Open PDF and Download actions to assignment cards when a direct PDF URL is exposed or detected after opening the assignment. Existing popup, local PDF history, and support link are preserved.
 
 This build is intentionally configured for a specific site and document host. The hostnames remain in manifest.json and the detection code because they are required for the extension to work; user-facing branding and descriptions are generic.
 
